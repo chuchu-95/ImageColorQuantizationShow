@@ -1,4 +1,4 @@
-# ImageColorQuantizationShow\
+# ImageColorQuantizationShow
 This is the frontend show code.
 
 ## Project setup
